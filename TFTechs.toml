@@ -1,0 +1,5 @@
+[project]
+name = "TFTechs"
+version = "0.0.1"
+license = {file= "LICENSE"}
+keywords = {"calculator", "helper", "league of legends", "lol", "probabilities", "statistics", "tactics", "teamfight", "tft"}
